@@ -1,0 +1,43 @@
+{
+  "SG9391713": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Adrian Kraus, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Norbertus Van der Steen, Rembrandtlaan 21, 5121 WK Rijen, Niederlande",
+    "price": "16.000 €",
+    "description": "Hersteller: BMW<br>Typ: R 1250 GS Adventure <br>Fahrgestelnummer: WB10J5307LZF90259<br>Erstzulassung: 10/2020<br>KM laut Vorbesitzer: 8.239 km <br>Leistung: 100 kW (136 PS) <br>Hubraum: 1254 cm³<br>Farbe: Beige <br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> 2 x Seitenkoffer, 1 x Topcase, Dynamic Paket, Touring Paket, Komfort Paket <br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Norbertus Van de Steen<br>Rembrandtlaan 21<br>5121 WK Rijen<br>Niederlande<br>Telefon: +31 6 83164535",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "03-09-2025",
+    "deliveryDate": "12-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Rembrandtlaan 21",
+      "postal_code": "5121 WK",
+      "city": "Rijen",
+      "country": "Niederlande"
+    }
+  }
+}
